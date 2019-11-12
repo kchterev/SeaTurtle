@@ -1,0 +1,10 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=SPINNER_TWIN_STARS.PrjPcb
+[Project2]
+ProjectPath=SeaTurtleIO.PrjPcb
+[Project3]
+ProjectPath=LANtoLIN.PrjPcb
+[Project4]
+ProjectPath=..\..\..\nick\PCB_Projects\ROV_Filter\ROV_Filter.PrjPcb
